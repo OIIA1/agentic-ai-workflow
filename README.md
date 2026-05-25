@@ -1,3 +1,4 @@
+### Docker Debugging Info ###
 # Agentic AI Workflow Example
 
 [![FullStackWithLawrence](https://a11ybadges.com/badge?text=FullStackWithLawrence&badgeColor=orange&logo=youtube&logoColor=282828)](https://www.youtube.com/@FullStackWithLawrence)<br>
