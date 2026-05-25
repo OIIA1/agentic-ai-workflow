@@ -18,7 +18,7 @@ charset-normalizer>=3.4.0,<4.0.0
 colorama>=0.4.6,<1.0.0
 
 # Used for platform-independent file locking; required by joblib, pytest, and other tools needing concurrency-safe file access.
-filelock>=3.19.0,<4.0.0
+filelock>=3.29.0,<4.0.0
 
 # Handles Internationalized Domain Names; indirect dependency of requests, urllib3, and other networking libraries.
 idna>=3.10,<4.0.0
